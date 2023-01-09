@@ -1,0 +1,27 @@
+2022-09-26 09:18:11,792 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-26 09:18:12,130 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-09-26 09:18:18,083 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-26 09:18:18,083 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-26 09:18:18,380 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-09-26 09:18:18,380 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-09-27 04:42:16,839 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 04:42:17,133 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 04:42:20,278 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 04:43:41,056 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 04:43:41,363 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 04:43:44,873 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 04:57:56,496 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 04:57:57,699 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 04:58:01,194 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 04:58:01,219 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 04:58:01,440 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 04:58:01,504 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-27 04:59:14,600 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 04:59:15,504 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 04:59:18,520 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 04:59:18,568 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 04:59:18,848 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 04:59:28,913 :INFO :test_add_saree_to_cart :Navigating to password otp page

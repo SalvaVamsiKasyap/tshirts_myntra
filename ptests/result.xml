@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="1" time="115.198" timestamp="2023-01-09T08:09:24.903033" hostname="DESKTOP-84DPPG6"><testcase classname="test_myntra.Testmyntra" name="test_add_saree_to_cart" time="115.099"><failure message="selenium.common.exceptions.TimeoutException: Message: &#10;Stacktrace:&#10;Backtrace:&#10;&#09;Ordinal0 [0x00EBACD3+2075859]&#10;&#09;Ordinal0 [0x00E4EE61+1633889]&#10;&#09;Ordinal0 [0x00D4B7BD+571325]&#10;&#09;Ordinal0 [0x00D7AC2F+764975]&#10;&#09;Ordinal0 [0x00D7AE1B+765467]&#10;&#09;Ordinal0 [0x00DAD0F2+970994]&#10;&#09;Ordinal0 [0x00D97364+881508]&#10;&#09;Ordinal0 [0x00DAB56A+963946]&#10;&#09;Ordinal0 [0x00D97136+880950]&#10;&#09;Ordinal0 [0x00D6FEFD+720637]&#10;&#09;Ordinal0 [0x00D70F3F+724799]&#10;&#09;GetHandleVerifier [0x0116EED2+2769538]&#10;&#09;GetHandleVerifier [0x01160D95+2711877]&#10;&#09;GetHandleVerifier [0x00F4A03A+521194]&#10;&#09;GetHandleVerifier [0x00F48DA0+516432]&#10;&#09;Ordinal0 [0x00E5682C+1665068]&#10;&#09;Ordinal0 [0x00E5B128+1683752]&#10;&#09;Ordinal0 [0x00E5B215+1683989]&#10;&#09;Ordinal0 [0x00E66484+1729668]&#10;&#09;BaseThreadInitThunk [0x76207D69+25]&#10;&#09;RtlInitializeExceptionChain [0x77C8BB9B+107]&#10;&#09;RtlClearBits [0x77C8BB1F+191]">self = &lt;ptests.test_myntra.Testmyntra object at 0x000002336CB6AF80&gt;
+
+    def test_add_saree_to_cart(self):
+        log = self.get_logger()
+        # myntra home page
+        A = ActionChains(self.driver)
+        mhp = myntrahomepage(self.driver)
+        mhp_profile_ele = mhp.profile_login()
+        log.info("Hovering over profile button")
+        A.move_to_element(mhp_profile_ele).perform()
+        log.info("Successfully performed hovering action on login button")
+        mhp_lgn_btn = mhp.login_b()
+        self.verify_element_clickable("//a[@href='/login?referer=https://www.myntra.com/']")
+        A.move_to_element(mhp_lgn_btn).click().perform()
+        log.info("Entered login page")
+    
+        # myntra login page
+        mlp = myntraloginpage(self.driver)
+        time.sleep(5)
+        num_inp = mlp.enter_number()
+        log.info("Enter the number")
+        num_inp.send_keys(6304459525)
+        log.info("Number entered")
+        num_inp.send_keys(Keys.ENTER)
+        #time.sleep(5)
+        #self.verify_element_presence('/html/body/div/div/span')
+        #self.verify_element_absence('/html/body/div/div/span')
+        time.sleep(50)
+        #self.verify_element_presence('//div[text()="CONTINUE"]')
+        #time.sleep(5)
+        #self.verify_element_absence('message-text')
+        num_inp.send_keys(Keys.ENTER)
+        log.info("Navigating to password otp page")
+        # time.sleep(30)
+    
+        # myntra password otp
+        mpo = myntrapasswordotp(self.driver)
+&gt;       self.verify_element_clickable("//div[@class='bottomeLink']/span")
+
+test_myntra.py:55: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+..\utilities\BaseClass.py:59: in verify_element_clickable
+    wait1.until(expected_conditions.element_to_be_clickable((By.XPATH, element)))
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;selenium.webdriver.support.wait.WebDriverWait (session="be3da807df8083338f81c23e614f4918")&gt;
+method = &lt;function element_to_be_clickable.&lt;locals&gt;._predicate at 0x000002336CC8CEE0&gt;
+message = ''
+
+    def until(self, method, message: str = ""):
+        """Calls the method provided with the driver as an argument until the \
+        return value does not evaluate to ``False``.
+    
+        :param method: callable(WebDriver)
+        :param message: optional message for :exc:`TimeoutException`
+        :returns: the result of the last call to `method`
+        :raises: :exc:`selenium.common.exceptions.TimeoutException` if timeout occurs
+        """
+        screen = None
+        stacktrace = None
+    
+        end_time = time.monotonic() + self._timeout
+        while True:
+            try:
+                value = method(self._driver)
+                if value:
+                    return value
+            except self._ignored_exceptions as exc:
+                screen = getattr(exc, 'screen', None)
+                stacktrace = getattr(exc, 'stacktrace', None)
+            time.sleep(self._poll)
+            if time.monotonic() &gt; end_time:
+                break
+&gt;       raise TimeoutException(message, screen, stacktrace)
+E       selenium.common.exceptions.TimeoutException: Message: 
+E       Stacktrace:
+E       Backtrace:
+E       	Ordinal0 [0x00EBACD3+2075859]
+E       	Ordinal0 [0x00E4EE61+1633889]
+E       	Ordinal0 [0x00D4B7BD+571325]
+E       	Ordinal0 [0x00D7AC2F+764975]
+E       	Ordinal0 [0x00D7AE1B+765467]
+E       	Ordinal0 [0x00DAD0F2+970994]
+E       	Ordinal0 [0x00D97364+881508]
+E       	Ordinal0 [0x00DAB56A+963946]
+E       	Ordinal0 [0x00D97136+880950]
+E       	Ordinal0 [0x00D6FEFD+720637]
+E       	Ordinal0 [0x00D70F3F+724799]
+E       	GetHandleVerifier [0x0116EED2+2769538]
+E       	GetHandleVerifier [0x01160D95+2711877]
+E       	GetHandleVerifier [0x00F4A03A+521194]
+E       	GetHandleVerifier [0x00F48DA0+516432]
+E       	Ordinal0 [0x00E5682C+1665068]
+E       	Ordinal0 [0x00E5B128+1683752]
+E       	Ordinal0 [0x00E5B215+1683989]
+E       	Ordinal0 [0x00E66484+1729668]
+E       	BaseThreadInitThunk [0x76207D69+25]
+E       	RtlInitializeExceptionChain [0x77C8BB9B+107]
+E       	RtlClearBits [0x77C8BB1F+191]
+
+..\..\robot_frame_work\venv\lib\site-packages\selenium\webdriver\support\wait.py:90: TimeoutException</failure></testcase></testsuite></testsuites>

@@ -1,0 +1,662 @@
+2022-09-27 05:26:15,027 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 05:26:15,439 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 05:26:19,298 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 05:26:19,322 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 05:26:19,736 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 05:27:04,946 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-27 05:52:09,684 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 05:52:09,972 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 05:52:12,485 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 05:52:12,536 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 05:52:13,495 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 05:52:58,616 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-27 05:54:37,852 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 05:54:38,144 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 05:54:41,266 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 05:54:41,281 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 05:54:41,359 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 05:55:26,443 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-27 05:57:50,139 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 05:57:50,501 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 05:57:53,102 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 05:57:53,115 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 05:57:53,374 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 05:58:38,485 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-27 06:03:35,486 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 06:03:36,203 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 06:03:38,938 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 06:03:38,953 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 06:03:39,036 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 06:04:24,180 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-27 06:39:30,486 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 06:39:30,770 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 06:39:34,850 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 06:39:34,868 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 06:39:34,939 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 06:40:20,033 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-27 06:44:28,803 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-27 06:44:29,126 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-27 06:44:34,151 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-27 06:44:34,164 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-27 06:44:34,258 :INFO :test_add_saree_to_cart :Number entered
+2022-09-27 06:45:19,342 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 19:08:45,435 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 19:08:45,727 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 19:08:48,229 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 19:08:48,245 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 19:08:48,465 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 19:09:33,646 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 19:12:04,549 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 19:12:04,859 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 19:12:07,957 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 19:12:07,989 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 19:12:09,221 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 19:12:54,482 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 19:15:27,351 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 19:15:27,655 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 19:15:30,827 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 19:15:30,851 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 19:15:30,994 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 19:16:16,201 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 20:45:48,694 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 20:45:49,034 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 20:45:52,749 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 20:45:52,781 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 20:45:53,021 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 20:46:38,257 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 20:48:39,543 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 20:48:39,880 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 20:48:43,181 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 20:48:43,229 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 20:48:43,511 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 20:49:28,773 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 21:23:24,768 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 21:23:25,069 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 21:23:28,578 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 21:23:28,597 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 21:23:28,677 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 21:24:13,806 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 21:27:36,628 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 21:27:36,931 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 21:27:40,301 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 21:27:40,315 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 21:27:40,420 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 21:28:25,502 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 21:35:11,972 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 21:35:12,285 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 21:35:17,803 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 21:35:17,816 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 21:35:17,911 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 21:36:03,021 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 22:41:05,112 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 22:41:05,439 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 22:41:08,741 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 22:41:08,765 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 22:41:08,926 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 22:41:54,116 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 22:46:39,694 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 22:46:40,029 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 22:46:43,017 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 22:46:43,065 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 22:46:43,372 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 22:47:28,621 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 22:57:19,287 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 22:57:19,604 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 22:57:22,053 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 22:57:22,070 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 22:57:22,314 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 22:58:07,433 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-09-28 23:01:38,479 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-09-28 23:01:38,787 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-09-28 23:01:41,018 :INFO :test_add_saree_to_cart :Entered login page
+2022-09-28 23:01:41,035 :INFO :test_add_saree_to_cart :Enter the number
+2022-09-28 23:01:41,103 :INFO :test_add_saree_to_cart :Number entered
+2022-09-28 23:02:26,203 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 17:22:26,929 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 17:22:27,234 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 17:22:31,188 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 17:22:31,212 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 17:22:31,349 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 17:40:14,735 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 17:40:15,040 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 17:40:18,349 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 17:40:18,373 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 17:40:18,580 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 17:41:08,738 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 17:45:21,294 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 17:45:21,599 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 17:45:25,072 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 17:45:25,096 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 17:45:25,267 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 17:46:15,416 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 17:53:12,860 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 17:53:13,169 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 17:53:16,801 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 17:53:16,825 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 17:53:16,988 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 17:54:07,153 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 17:57:31,113 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 17:57:31,428 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 17:57:35,028 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 17:57:35,087 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 17:57:35,290 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 17:58:25,458 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 18:00:37,458 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 18:00:37,756 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 18:00:42,296 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 18:00:42,317 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 18:00:42,470 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 18:01:32,851 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 18:03:12,369 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 18:03:12,666 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 18:03:16,394 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 18:03:16,421 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 18:03:16,625 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 18:04:06,850 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 18:14:47,753 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 18:14:48,156 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 18:14:51,456 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 18:14:51,504 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 18:14:51,871 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 18:15:42,153 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 18:16:52,539 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 18:16:52,842 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 18:16:56,814 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 18:16:56,861 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 18:16:57,180 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 18:17:47,377 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 19:46:12,405 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 19:46:12,722 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 19:46:16,064 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 19:46:16,096 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 19:46:16,321 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 19:47:06,520 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 20:03:16,919 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 20:03:17,219 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 20:03:21,067 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 20:03:21,092 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 20:03:21,274 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 20:04:11,384 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 20:06:45,638 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 20:06:45,930 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 20:06:49,387 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 20:06:49,435 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 20:06:49,599 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 20:07:39,697 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 20:11:01,699 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 20:11:02,684 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 20:11:06,189 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 20:11:06,221 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 20:11:06,369 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 20:11:56,488 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 20:13:36,108 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 20:13:36,406 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 20:13:39,861 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 20:13:39,896 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 20:13:40,137 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 20:14:30,254 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-01 20:35:26,524 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:35:27,312 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 20:35:33,771 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:35:33,771 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:35:34,745 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 20:35:34,745 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 20:36:50,342 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:36:50,823 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 20:36:56,749 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:36:56,749 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:36:57,033 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 20:36:57,033 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 20:38:54,078 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:38:54,359 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 20:39:00,044 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:39:00,044 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 20:39:00,298 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 20:39:00,298 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 21:09:29,368 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 21:09:29,599 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 21:09:35,228 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 21:09:35,228 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-10-01 21:09:35,397 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 21:09:35,397 :INFO :test_formSubmission :-----------------------TEST CASE ENDED--------------------------
+2022-10-01 21:19:37,807 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-01 21:19:38,138 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-01 21:19:41,867 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-01 21:19:41,911 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-01 21:19:42,175 :INFO :test_add_saree_to_cart :Number entered
+2022-10-01 21:20:32,369 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-05 17:36:57,257 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 17:36:57,623 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 17:36:58,406 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:02:21,490 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 18:02:21,834 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 18:02:22,366 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:11:17,392 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 18:11:17,827 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 18:11:18,491 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:12:19,702 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 18:12:20,006 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 18:12:23,007 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:12:23,055 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-05 18:12:23,415 :INFO :test_add_saree_to_cart :Number entered
+2022-10-05 18:13:13,567 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-05 18:17:30,594 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 18:17:30,925 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 18:17:35,629 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:17:35,674 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-05 18:17:36,097 :INFO :test_add_saree_to_cart :Number entered
+2022-10-05 18:18:26,292 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-05 18:21:28,222 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 18:21:28,683 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 18:21:29,375 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:27:31,578 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 18:27:32,018 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 18:27:32,798 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:28:30,400 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 18:28:30,835 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 18:28:31,569 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:28:36,594 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-05 18:28:36,947 :INFO :test_add_saree_to_cart :Number entered
+2022-10-05 18:29:27,504 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-10-05 18:31:42,078 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-10-05 18:31:42,816 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-10-05 18:31:43,662 :INFO :test_add_saree_to_cart :Entered login page
+2022-10-05 18:31:48,917 :INFO :test_add_saree_to_cart :Enter the number
+2022-10-05 18:31:49,037 :INFO :test_add_saree_to_cart :Number entered
+2022-10-05 18:32:39,216 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2022-12-12 00:04:48,544 :INFO :test_add_saree_to_cart :Hovering over profile button
+2022-12-12 00:04:48,913 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2022-12-12 00:04:53,781 :INFO :test_add_saree_to_cart :Entered login page
+2022-12-12 00:04:58,820 :INFO :test_add_saree_to_cart :Enter the number
+2022-12-12 00:04:59,008 :INFO :test_add_saree_to_cart :Number entered
+2022-12-12 00:05:49,233 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-04 19:43:42,785 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-04 19:43:43,102 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-04 19:43:47,094 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-04 19:43:52,155 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-04 19:43:52,470 :INFO :test_add_saree_to_cart :Number entered
+2023-01-04 19:44:42,706 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 15:48:46,447 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 15:48:46,757 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 15:48:50,384 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 15:48:55,419 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 15:48:55,633 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 15:49:46,014 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 15:51:59,881 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 15:52:00,282 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 15:52:01,055 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 15:52:06,288 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 15:52:06,565 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 15:52:56,749 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 15:56:39,224 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 15:56:39,984 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 15:56:40,984 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 15:56:46,087 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 15:56:46,300 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 15:57:36,563 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 16:26:57,255 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 16:26:58,207 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 16:27:02,330 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 16:27:07,361 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 16:27:07,694 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 16:27:57,970 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 16:31:11,796 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 16:31:12,107 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 16:31:18,187 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 16:31:23,505 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 16:31:23,761 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 16:32:14,380 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 16:42:57,208 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 16:42:57,514 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 16:43:00,996 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 16:43:06,017 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 16:43:06,536 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 16:43:56,790 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 16:47:21,219 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 16:47:21,620 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 16:47:22,425 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 16:47:27,438 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 16:47:27,608 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 16:48:17,758 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 16:49:55,077 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 16:49:55,403 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 16:49:59,373 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 16:50:04,413 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 16:50:04,628 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 16:50:54,855 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 16:54:27,614 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 16:54:28,225 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 16:54:29,409 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 16:54:34,437 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 16:54:34,638 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 16:55:24,797 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 17:02:28,955 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 17:02:29,257 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 17:02:32,090 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 17:02:37,093 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 17:02:37,218 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 17:03:27,329 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 17:43:54,071 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 17:43:54,362 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 17:43:57,423 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 17:44:02,442 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 17:44:02,592 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 17:44:52,733 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 17:49:02,736 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 17:49:03,098 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 17:49:08,264 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 17:49:13,339 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 17:49:14,165 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 17:50:04,936 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 17:54:41,340 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 17:54:41,852 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 17:54:47,184 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 17:54:52,402 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 17:54:52,610 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 17:55:42,904 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 17:57:30,198 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 17:57:30,566 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 17:57:31,754 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 17:57:36,777 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 17:57:37,097 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 17:58:27,253 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:00:52,467 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:00:52,751 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:00:55,738 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:01:00,739 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:01:00,964 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:01:06,049 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:02:07,236 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:02:07,536 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:02:10,834 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:02:15,845 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:02:16,013 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:03:06,151 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:05:12,827 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:05:13,198 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:05:13,932 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:05:19,014 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:05:19,122 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:06:09,246 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:08:10,390 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:08:10,790 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:08:11,797 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:08:16,808 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:08:16,940 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:09:07,043 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:12:54,937 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:12:55,332 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:12:56,146 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:13:01,166 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:13:01,311 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:13:51,562 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:21:00,741 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:21:01,105 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:21:01,989 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:21:07,002 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:21:07,103 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:21:57,218 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:23:02,202 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:23:02,588 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:23:04,053 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:23:09,086 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:23:09,203 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:23:59,320 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:26:54,567 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:26:55,005 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:26:55,649 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:27:00,657 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:27:00,732 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:27:50,860 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:31:48,682 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:31:49,076 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:31:49,551 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:31:54,587 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:31:54,741 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:32:44,837 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:41:34,515 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:41:34,829 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:41:35,615 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:41:40,633 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:41:40,956 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:42:31,090 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 18:43:37,119 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 18:43:37,466 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 18:43:38,125 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 18:43:43,130 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 18:43:43,234 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 18:44:33,325 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 22:29:33,743 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 22:29:34,061 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 22:29:37,005 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 22:29:42,022 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 22:29:42,178 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 22:30:32,296 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 22:47:36,989 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 22:47:37,307 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 22:47:40,326 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 22:47:45,354 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 22:47:45,542 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 22:48:35,705 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 22:50:46,581 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 22:50:46,881 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 22:50:49,458 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 22:50:54,474 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 22:50:54,608 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 22:51:44,768 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 22:56:20,490 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 22:56:20,797 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 22:56:23,979 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 22:56:29,021 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 22:56:29,276 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 22:57:19,568 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 22:59:00,665 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 22:59:00,953 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 22:59:04,222 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 22:59:09,259 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 22:59:09,517 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 22:59:59,692 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:01:04,043 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:01:04,332 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:01:07,566 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:01:12,595 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:01:12,731 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:02:02,868 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:03:18,443 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:03:18,737 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:03:21,611 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:03:26,630 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:03:26,806 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:04:16,955 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:10:47,420 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:10:47,712 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:10:50,540 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:10:55,570 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:10:55,704 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:11:45,856 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:21:32,253 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:21:32,539 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:21:35,315 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:21:40,328 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:21:40,465 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:22:30,670 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:34:50,549 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:34:50,848 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:34:53,279 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:34:58,309 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:34:58,487 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:35:48,615 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:40:40,595 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:40:41,049 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:40:43,799 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:40:48,821 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:40:48,996 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:41:39,181 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:42:56,607 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:42:57,606 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:43:00,904 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:43:05,935 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:43:06,090 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:43:56,214 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:47:06,617 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:47:06,907 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:47:09,663 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:47:14,694 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:47:14,948 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:48:05,092 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:49:27,755 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:49:28,318 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:49:31,291 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:49:36,311 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:49:36,481 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:50:26,625 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:54:08,872 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:54:09,215 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:54:12,209 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:54:17,231 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:54:17,429 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:55:07,608 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-08 23:58:14,854 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-08 23:58:15,160 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-08 23:58:18,699 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-08 23:58:23,719 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-08 23:58:23,882 :INFO :test_add_saree_to_cart :Number entered
+2023-01-08 23:59:14,108 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 00:18:17,202 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 00:18:17,898 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 00:18:21,040 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 00:18:26,073 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 00:18:26,254 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 00:19:16,460 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 00:21:25,068 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 00:21:25,401 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 00:21:42,852 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 00:21:47,890 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 00:21:48,145 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 00:22:38,517 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 00:27:08,192 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 00:27:08,512 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 00:27:12,104 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 00:27:17,126 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 00:27:17,340 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 00:28:07,573 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 00:39:13,870 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 00:39:14,166 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 00:39:17,615 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 00:39:22,640 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 00:39:22,878 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 00:40:13,141 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 00:47:10,736 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 00:47:11,063 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 00:47:14,165 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 00:47:19,189 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 00:47:19,394 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 00:48:09,568 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 00:50:00,550 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 00:50:00,854 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 00:50:04,903 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 00:50:09,931 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 00:50:10,153 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 00:51:00,464 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 00:54:35,809 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 00:54:36,134 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 00:54:39,644 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 00:54:44,672 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 00:54:44,867 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 00:55:35,107 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 00:58:09,435 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 00:58:09,740 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 00:58:13,014 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 00:58:18,044 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 00:58:18,244 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 00:59:08,499 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 01:01:21,930 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 01:01:22,230 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 01:01:25,637 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 01:01:30,656 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 01:01:30,875 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 01:02:21,106 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 01:19:24,678 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 01:19:25,017 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 01:19:28,450 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 01:19:33,476 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 01:19:33,643 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 01:20:23,908 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 01:27:15,151 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 01:27:15,895 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 01:27:18,783 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 01:27:23,788 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 01:27:23,974 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 01:28:14,245 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 01:33:45,480 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 01:33:45,791 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 01:33:49,331 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 01:33:54,365 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 01:33:54,563 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 01:34:44,821 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 01:37:31,375 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 01:37:31,744 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 01:37:35,742 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 01:37:40,761 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 01:37:40,971 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 01:38:31,307 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 01:40:56,843 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 01:40:57,739 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 01:41:01,346 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 01:41:06,368 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 01:41:06,573 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 01:41:56,811 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 07:29:39,391 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 07:29:39,706 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 07:29:43,995 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 07:29:49,052 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 07:29:49,294 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 07:30:39,510 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 07:33:07,194 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 07:33:08,022 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 07:33:11,387 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 07:33:16,413 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 07:33:16,635 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 07:34:06,817 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 07:43:38,823 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 07:43:39,128 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 07:43:43,078 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 07:43:48,197 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 07:43:48,552 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 07:44:38,861 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 07:59:17,651 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 07:59:17,978 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 07:59:21,782 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 07:59:26,821 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 07:59:27,023 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 08:00:17,330 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 08:03:15,966 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 08:03:16,336 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 08:03:20,695 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 08:03:25,729 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 08:03:26,022 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 08:04:16,607 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 08:06:13,021 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 08:06:13,320 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 08:06:15,859 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 08:06:20,889 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 08:06:21,020 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 08:07:11,191 :INFO :test_add_saree_to_cart :Navigating to password otp page
+2023-01-09 08:09:31,051 :INFO :test_add_saree_to_cart :Hovering over profile button
+2023-01-09 08:09:31,348 :INFO :test_add_saree_to_cart :Successfully performed hovering action on login button
+2023-01-09 08:09:34,128 :INFO :test_add_saree_to_cart :Entered login page
+2023-01-09 08:09:39,148 :INFO :test_add_saree_to_cart :Enter the number
+2023-01-09 08:09:39,305 :INFO :test_add_saree_to_cart :Number entered
+2023-01-09 08:10:29,463 :INFO :test_add_saree_to_cart :Navigating to password otp page
