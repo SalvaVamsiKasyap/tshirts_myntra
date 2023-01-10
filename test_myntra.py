@@ -43,6 +43,9 @@ class Testmyntrakid():
         wait.until(expected_conditions.presence_of_element_located((By.XPATH, "//div[@data-reactid='334']/a")))
         hover_kid = driver.find_element(By.XPATH, "//div[@data-reactid='334']/a")
         A.move_to_element(hover_kid).perform()
+        kid_categories = driver.find_elements(By.XPATH,'//div[@data-group="kids"]//a[@class="desktop-categoryName"]')
+        for category in kid_categories:
+            print(category.text)
         click_tshirt = driver.find_element(By.XPATH, "//li[@data-reactid='344']/a")
         A.move_to_element(click_tshirt).click().perform()
         driver.get(
@@ -55,10 +58,10 @@ class Testmyntrakid():
 
             item.click()
             Windows_opened = driver.window_handles
-            print(len(Windows_opened))
+            #print(len(Windows_opened))
             driver.switch_to.window(Windows_opened[len(Windows_opened) - 1])
-            print(f"list of open windows second{Windows_opened}")
-            print(driver.current_url)
+            #print(f"list of open windows second{Windows_opened}")
+            #print(driver.current_url)
             # try:
             # self.verify_element_clickable("/div[@class ='size-buttons-size-buttons']/div/div/button")
             # except TimeoutException:
@@ -78,8 +81,8 @@ class Testmyntrakid():
                 A.move_to_element(cart_adding).click().perform()
                 if counter != 4:
                     driver.switch_to.window(Windows_opened[0])
-                print(f" last url:{driver.current_url}")
-                print(f"list of open windows{Windows_opened}")
+                #print(f" last url:{driver.current_url}")
+                #print(f"list of open windows{Windows_opened}")
             counter += 1
             if counter == 5:
                 break
